@@ -1,3 +1,5 @@
-## Talks
+---
+title: Jan C. Dageförde
+---
 
-## Publications
+## Activities
