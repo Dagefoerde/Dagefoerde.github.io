@@ -1,4 +1,11 @@
 ---
 ---
 
+$header-bg-color-secondary: #852339;
+$header-bg-color: #852339;
+
 @import "{{ site.theme }}";
+
+img.site-logo {
+    height: 1em;
+}
