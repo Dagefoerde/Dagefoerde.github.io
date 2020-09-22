@@ -21,7 +21,7 @@ title: Talks
   \[[recording](https://moodle.org/mod/bigbluebuttonbn/view.php?id=8596)] \[[slides](https://docs.moodle.org/dev/images_dev/0/01/2019-10-devtalk-integrations.pdf)]
 
 * Muli: Constraint-Logic Object-Oriented Programming mit freien Objekten  
-  \20. Kolloquium Programmiersprachen und Grundlagen der Programmierung (KPS), 24.09.2019, Baiersbronn-Schwarzenberg, DE
+  20\. Kolloquium Programmiersprachen und Grundlagen der Programmierung (KPS), 24.09.2019, Baiersbronn-Schwarzenberg, DE
 
 * Automated Data-flow Analysis and Validation in Process Automation Projects  
   18th International Conference on Intelligent Software Methodologies, Tools, and Techniques, 23.09.2019, Kuching, MY
