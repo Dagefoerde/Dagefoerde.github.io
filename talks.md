@@ -64,7 +64,7 @@ title: Talks
   MoodleMoot IE/UK, 28.03.2018, Glasgow, UK
 
 * Moodle and Cloud File Sharing  
-  MoodleMoot IE/UK (missing-title), 27.03.2018, Glasgow, UK  
+  MoodleMoot IE/UK, 27.03.2018, Glasgow, UK  
   \[[recording](https://www.youtube.com/watch?v=67N3FabV8DA)] \[[slides](https://assets.moodlemoot.org/sites/58/20180406082901/Moodle-and-Cloud-File-Sharing-%E2%80%93-Integration-with-ownCloud-and-Nextcloud-presented-by-Jan-Dageforde-Univeristy-of-Munster.pdf)]
 
 * Moodleoverflow - Diskussionsforum im Frage-Antwort-Stil  
