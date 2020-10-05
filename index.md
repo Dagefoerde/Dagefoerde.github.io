@@ -2,6 +2,18 @@
 title: Jan C. Dageförde
 ---
 
-## Activities
+## Short Bio
 
-* Learnweb-Hackathon (missing-description), 20.-21.02.2018, Münster, DE
+Since I founded my first small enterprise in 2004, I have professionally developed various kinds of software in a variety of industries. So far, I have put a strong focus on full-stack web development and virtual machine development, but other projects include desktop applications (GUI or CLI), build automation, and Linux server administration. 
+In 2020, I graduated with a PhD (Dr. rer. pol.) in Information Systems from the University of Münster, following B. Sc. and M. Sc. degrees in Information Systems.
+My professional interests focus around (IT) systems architecture, domain-driven design, agile development methodologies, devops, and free software.
+
+## Contributions to Free Software
+
+[Free software](https://www.gnu.org/philosophy/free-sw.html) is an invaluable public good that is beneficial in education as well as in commercial applications.
+Where possible, I try to contribute to free software projects. My contributions to free software so far include [Moodle core changes](https://moodle.org/dev/contributions.php?tifirst=J&tilast=D), [Moodle plugins](https://moodle.org/plugins/?q=dagef%C3%B6rde), and the [Moodle-Nextcloud-Integration](https://nextcloud.com/blog/moodle-x-nextcloud-i-enjoy-being-a-part-of-two-open-source-communities-whose-efforts-empower-many-people/) \[[mirror](./Mirror/2018 Moodle x Nextcloud.pdf)]. 
+The majority of my contributions to free software is tracked on my [Github profile](https://github.com/Dagefoerde/).
+
+## CoderDojo Münster
+
+Together with a group of volunteers, I regularly teach kids how to do programming at the [CoderDojo Münster](https://www.coderdojo.ms/). Among other interesting technologies, we use [Scratch](https://scratch.mit.edu/) and [Calliope mini](https://calliope.cc/).
