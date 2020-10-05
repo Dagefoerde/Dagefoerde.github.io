@@ -12,8 +12,13 @@ My professional interests focus around (IT) systems architecture, domain-driven 
 
 [Free software](https://www.gnu.org/philosophy/free-sw.html) is an invaluable public good that is beneficial in education as well as in commercial applications.
 Where possible, I try to contribute to free software projects. My contributions to free software so far include [Moodle core changes](https://moodle.org/dev/contributions.php?tifirst=J&tilast=D), [Moodle plugins](https://moodle.org/plugins/?q=dagef%C3%B6rde), and the [Moodle-Nextcloud-Integration](https://nextcloud.com/blog/moodle-x-nextcloud-i-enjoy-being-a-part-of-two-open-source-communities-whose-efforts-empower-many-people/) \[[mirror](./Mirror/2018 Moodle x Nextcloud.pdf)]. 
-The majority of my contributions to free software is tracked on my [Github profile](https://github.com/Dagefoerde/).
+The majority of my contributions to free software is tracked on my [GitHub profile](https://github.com/Dagefoerde/).
 
 ## CoderDojo Münster
 
 Together with a group of volunteers, I regularly teach kids how to do programming at the [CoderDojo Münster](https://www.coderdojo.ms/). Among other interesting technologies, we use [Scratch](https://scratch.mit.edu/) and [Calliope mini](https://calliope.cc/).
+
+## Public Profiles
+
+[Xing](https://www.xing.com/profile/Jan_Dagefoerde), [LinkedIn](https://www.linkedin.com/in/jan-dagef%C3%B6rde-9598921b3/), [Twitter](https://twitter.com/slash_sq), [GitHub](https://github.com/Dagefoerde/), [ResearchGate](https://www.researchgate.net/profile/Jan_Dagefoerde).
+
