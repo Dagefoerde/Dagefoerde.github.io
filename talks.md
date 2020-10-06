@@ -19,7 +19,7 @@ title: Talks
 
 * Integrating Moodle with other educational software  
   Moodle Developer Meetings, 01.10.2020, online  
-  \[[recording](https://moodle.org/mod/bigbluebuttonbn/view.php?id=8596)] \[[slides](https://docs.moodle.org/dev/images_dev/0/01/2019-10-devtalk-integrations.pdf)]
+  \[[recording](https://moodle.org/mod/bigbluebuttonbn/view.php?id=8596)] \[[slides](https://docs.moodle.org/dev/images_dev/0/01/2019-10-devtalk-integrations.pdf) ([mirror](./Mirror/2019-10-devtalk-integrations.pdf))]
 
 * Muli: Constraint-Logic Object-Oriented Programming mit freien Objekten  
   20\. Kolloquium Programmiersprachen und Grundlagen der Programmierung (KPS), 24.09.2019, Baiersbronn-Schwarzenberg, DE
@@ -29,14 +29,13 @@ title: Talks
 
 * Structured Traversal of Search Trees in Constraint-logic Object-oriented Programming  
   27th International Workshop on Functional and Logic Programming in the context of Declare, 11.09.2019, Cottbus, DE  
-  \[[slides](https://www.declare19.de/wp-content/uploads/2019/09/Structured-Traversal-of-Search-Trees-in-Constraint-logic-Object-oriented-Programming.pdf)]  \[[publication](https://arxiv.org/abs/1908.10264)]
+  \[[slides](https://www.declare19.de/wp-content/uploads/2019/09/Structured-Traversal-of-Search-Trees-in-Constraint-logic-Object-oriented-Programming.pdf) ([mirror](./Mirror/2019-09-wflp-mulist.pdf))]  \[[publication](https://arxiv.org/abs/1908.10264)]
 
 * Strukturierte Traversierung des Ausführungsbaums von Muli-Programmen  
   Workshop der GI-Fachgruppe Programmiersprachen und Rechenkonzepte, 06.05.2019, Bad Honnef, DE
 
 * Retrieval of Individual Solutions from Encapsulated Search with a Potentially Infinite Search Space  
   34th ACM/SIGAPP Symposium On Applied Computing, 12.04.2019, Limassol, CY
-  
   
 * Nerdy Dev Talk (Moderation)  
   Moodle-Hochschultreffen, 05.04.2019, Berlin, DE
@@ -47,7 +46,7 @@ title: Talks
 ### 2018
 
 * Reference Type Logic Variables in Constraint-logic Object-oriented Programming  
-  26th International Workshop on Functional and Logic Programming, 04.09.2018, Frankfurt, DE  
+  26th International Workshop on Functional and Logic Programming, 06.09.2018, Frankfurt, DE  
   \[[publication](https://arxiv.org/abs/1808.08185)]
 
 * Using Nextcloud from Moodle  
@@ -65,17 +64,18 @@ title: Talks
 
 * Moodle and Cloud File Sharing  
   MoodleMoot IE/UK, 27.03.2018, Glasgow, UK  
-  \[[recording](https://www.youtube.com/watch?v=67N3FabV8DA)] \[[slides](https://assets.moodlemoot.org/sites/58/20180406082901/Moodle-and-Cloud-File-Sharing-%E2%80%93-Integration-with-ownCloud-and-Nextcloud-presented-by-Jan-Dageforde-Univeristy-of-Munster.pdf)]
+  \[[recording](https://www.youtube.com/watch?v=67N3FabV8DA)] \[[slides](https://assets.moodlemoot.org/sites/58/20180406082901/Moodle-and-Cloud-File-Sharing-%E2%80%93-Integration-with-ownCloud-and-Nextcloud-presented-by-Jan-Dageforde-Univeristy-of-Munster.pdf) ([mirror](./Mirror/2018-03-mootieuk-cloud-file-sharing.pdf))]
 
 * Moodleoverflow - Diskussionsforum im Frage-Antwort-Stil  
   MoodleMoot Germany, 15.03.2018, Kassel, DE  
-  \[[slides](https://moodlemoot.moodle.de/pluginfile.php/11260/mod_data/content/24574/moodleoverflow.pdf)]
+  \[[slides](https://moodlemoot.moodle.de/pluginfile.php/11260/mod_data/content/24574/moodleoverflow.pdf) ([mirror](./Mirror/2018-03-mootde-moodleoverflow.pdf))]
 
-* MoodleMoot Germany (missing-title), 14.03.2018, Kassel, DE
+* Integration von Moodle mit ownCloud/Nextcloud  
+  MoodleMoot Germany, 14.03.2018, Kassel, DE  
+  \[[slides](https://moodlemoot.moodle.de/pluginfile.php/11260/mod_data/content/24436/cloud-file-sharing.pdf) ([mirror](./Mirror/2018-03-mootde-cloud-file-sharing.pdf))]
 
-* Moodle NRW (missing-title), 26.02.2018, Mülheim a. d. Ruhr, DE
-
-* Smart Home Seminar (missing-title), 14.01.2018, Mittelberg, AT
+* E-Learning und Cloud File Sharing  
+  Moodle NRW, 26.02.2018, Mülheim a. d. Ruhr, DE
 
 
 ### 2017
