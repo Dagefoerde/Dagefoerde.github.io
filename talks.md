@@ -8,7 +8,7 @@ title: Talks
 
 * Constraint-Logic Object-Oriented Programming with Free Arrays  
   28th International Workshop on Functional and Logic Programming in the context of BOPL in Bologna, 07.09.2020, online  
-  \[[publication](https://arxiv.org/abs/2008.13460)]
+  \[[preprint](https://arxiv.org/abs/2008.13460)]
 
 * An Integrated Constraint-Logic and Object-Oriented Programming Language  
   Disputationsvortrag, 07.07.2020, Münster, DE
@@ -29,7 +29,7 @@ title: Talks
 
 * Structured Traversal of Search Trees in Constraint-logic Object-oriented Programming  
   27th International Workshop on Functional and Logic Programming in the context of Declare, 11.09.2019, Cottbus, DE  
-  \[[slides](https://www.declare19.de/wp-content/uploads/2019/09/Structured-Traversal-of-Search-Trees-in-Constraint-logic-Object-oriented-Programming.pdf) ([mirror](./Mirror/2019-09-wflp-mulist.pdf))]  \[[publication](https://arxiv.org/abs/1908.10264)]
+  \[[slides](https://www.declare19.de/wp-content/uploads/2019/09/Structured-Traversal-of-Search-Trees-in-Constraint-logic-Object-oriented-Programming.pdf) ([mirror](./Mirror/2019-09-wflp-mulist.pdf))]  \[[preprint](https://arxiv.org/abs/1908.10264)] \[[final publication](https://doi.org/10.1007/978-3-030-46714-2_13)]
 
 * Strukturierte Traversierung des Ausführungsbaums von Muli-Programmen  
   Workshop der GI-Fachgruppe Programmiersprachen und Rechenkonzepte, 06.05.2019, Bad Honnef, DE
@@ -47,7 +47,7 @@ title: Talks
 
 * Reference Type Logic Variables in Constraint-logic Object-oriented Programming  
   26th International Workshop on Functional and Logic Programming, 06.09.2018, Frankfurt, DE  
-  \[[publication](https://arxiv.org/abs/1808.08185)]
+  \[[preprint](https://arxiv.org/abs/1808.08185)] \[[final publication](https://doi.org/10.1007/978-3-030-16202-3_8)]
 
 * Using Nextcloud from Moodle  
   Nextcloud Conference, 26.08.2018, Berlin, DE  
