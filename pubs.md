@@ -8,13 +8,15 @@ In addition, have a look at my [ResearchGate profile](https://www.researchgate.n
 
 ### 2020
 
+* Dageförde, J. C. (2020). An Integrated Constraint-Logic and Object-Oriented Programming Language. Dissertation at the University of Münster. Münster.  
+  \[[open acess](http://nbn-resolving.de/urn:nbn:de:hbz:6-89089640681)]
+
+
 * Dageförde, J. C., & Kuchen, H. (2020). Constraint-Logic Object-Oriented Programming with Free Arrays. In Proceedings of the WFLP 2020, Bologna, Italy.  
   \[[preprint](https://arxiv.org/abs/2008.13460)]
 
 * Dageförde, J. C., & Teegen, F. (2020). Structured Traversal of Search Trees in Constraint-logic Object-oriented Programming. In Hofstedt, P., Abreu, S., John, U., Kuchen, H., & Seipel, D. (Eds.), Declarative Programming and Knowledge Management (pp. 199–214). Lecture Notes in Artificial Intelligence: Vol. 12057. Springer.   
   \[[doi:10.1007/978-3-030-46714-2_13](https://doi.org/10.1007/978-3-030-46714-2_13)] \[[preprint](https://arxiv.org/abs/1908.10264)]
-
-* Dageförde, J. C. (2020). An Integrated Constraint-Logic and Object-Oriented Programming Language. Dissertation at the WWU Münster. Münster.
 
 * Dageförde, J. C., & Kuchen, H. (2020). Free Objects in Constraint-logic Object-oriented Programming. In Working Papers, European Research Center for Information Systems: Vol. 32. Münster.  
   \[[full-text report](https://www.ercis.org/sites/ercis/files/structure/network/research/ercis-working-papers/ercis_wp_32.pdf)]

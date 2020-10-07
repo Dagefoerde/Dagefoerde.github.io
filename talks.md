@@ -11,7 +11,8 @@ title: Talks
   \[[preprint](https://arxiv.org/abs/2008.13460)]
 
 * An Integrated Constraint-Logic and Object-Oriented Programming Language  
-  Disputationsvortrag, 07.07.2020, Münster, DE
+  Thesis defense / disputation, 07.07.2020, Münster, DE  
+  \[[dissertation (open acess)](http://nbn-resolving.de/urn:nbn:de:hbz:6-89089640681)]
 
 
 
