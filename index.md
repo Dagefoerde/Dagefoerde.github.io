@@ -4,7 +4,8 @@ title: Jan C. Dageförde
 
 ## Short Bio
 
-Since I founded my first small enterprise in 2004, I have professionally developed various kinds of software in a variety of industries. So far, I have put a strong focus on full-stack web development and virtual machine development, but other projects include desktop applications (GUI or CLI), build automation, and Linux server administration. 
+Since I founded my first small enterprise in 2004, I have professionally developed various kinds of software in a variety of industries. I have a strong background in full-stack web development (Java, PHP, JavaScript, CSS) and virtual machine development (Java). Other projects in the past included desktop applications (GUI or CLI), build automation, and Linux server administration.
+I have also worked (a bit) with COBOL, C#, Haskell, Python, R, Ruby, Xtend, and Xtext.
 In 2020, I graduated with a PhD (Dr. rer. pol.) in Information Systems from the University of Münster, following B. Sc. and M. Sc. degrees in Information Systems.
 My professional interests focus around (IT) systems architecture, domain-driven design, agile development methodologies, devops, and free software.
 
