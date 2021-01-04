@@ -6,6 +6,9 @@ title: Talks
 
 ### 2020
 
+* Schulung: Software-Testing für Moodle  
+  Online training in Moodle software testing for professional developers, December 2020, online
+
 * Constraint-Logic Object-Oriented Programming with Free Arrays  
   28th International Workshop on Functional and Logic Programming in the context of BOPL in Bologna, 07.09.2020, online  
   \[[preprint](https://arxiv.org/abs/2008.13460)]

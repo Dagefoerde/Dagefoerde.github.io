@@ -8,6 +8,7 @@ Since I founded my first small enterprise in 2004, I have professionally develop
 I have also worked (a bit) with COBOL, C#, Haskell, Python, R, Ruby, Xtend, and Xtext.
 In 2020, I graduated with a PhD (Dr. rer. pol.) in Information Systems from the University of Münster, following B. Sc. and M. Sc. degrees in Information Systems.
 My professional interests focus around (IT) systems architecture, domain-driven design, agile development methodologies, devops, and free software.
+From time to time I work as a part-time freelancer, offering development services, consulting, and training.
 
 ## Contributions to Free Software
 
