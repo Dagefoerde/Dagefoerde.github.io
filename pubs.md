@@ -9,7 +9,7 @@ In addition, please have a look at my [ResearchGate profile](https://www.researc
 
 ### 2023
 
-* Dageförde, J. C., & Kuchen, H. (2023). Applications of Muli: Solving Practical Problems with Constraint-Logic Object-Oriented Programming. In: Analysis, Verification and Transformation for Declarative Programming and Intelligent Systems. \[[doi:10.1007/978-3-031-31476-6_5](https://doi.org/10.1007/978-3-031-31476-6_5)].
+* Dageförde, J. C., & Kuchen, H. (2023). Applications of Muli: Solving Practical Problems with Constraint-Logic Object-Oriented Programming. In: Analysis, Verification and Transformation for Declarative Programming and Intelligent Systems. \[[doi:10.1007/978-3-031-31476-6_5](https://doi.org/10.1007/978-3-031-31476-6_5)]
 
 ### 2021
 
