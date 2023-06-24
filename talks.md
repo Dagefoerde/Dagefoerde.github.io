@@ -4,6 +4,11 @@ title: Talks
 
 ## Talks
 
+### 2022
+
+* Webcast: Trust in Cloud Transformation - PwC und AWS - Die Allianz für Ihren Erfolg, 26.04.2022, online
+
+
 ### 2020
 
 * Schulung: Software-Testing für Moodle  
