@@ -4,16 +4,21 @@ title: Publications
 
 ## Publications
 
-In addition, have a look at my [ResearchGate profile](https://www.researchgate.net/profile/Jan_Dagefoerde).
+In addition, please have a look at my [ResearchGate profile](https://www.researchgate.net/profile/Jan_Dagefoerde).
+
+
+### 2023
+
+* Dageförde, J. C., & Kuchen, H. (2023). Applications of Muli: Solving Practical Problems with Constraint-Logic Object-Oriented Programming. In: Analysis, Verification and Transformation for Declarative Programming and Intelligent Systems. \[[doi:10.1007/978-3-031-31476-6_5](https://doi.org/10.1007/978-3-031-31476-6_5)].
+
+### 2021
+
+*  Winkelmann, H., Dageförde, J. C., & Kuchen, H. (2021). Constraint-Logic Object-Oriented Programming with Free Arrays. In Proceedings of the WFLP 2020, Bologna, Italy.  \[[doi:10.1007/978-3-030-75333-7_8](https://doi.org/10.1007/978-3-030-75333-7_8)] \[[preprint](https://arxiv.org/abs/2008.13460)]
 
 ### 2020
 
 * Dageförde, J. C. (2020). An Integrated Constraint-Logic and Object-Oriented Programming Language. Dissertation at the University of Münster. Münster.  
   \[[open acess](http://nbn-resolving.de/urn:nbn:de:hbz:6-89089640681)]
-
-
-* Dageförde, J. C., & Kuchen, H. (2020). Constraint-Logic Object-Oriented Programming with Free Arrays. In Proceedings of the WFLP 2020, Bologna, Italy.  
-  \[[preprint](https://arxiv.org/abs/2008.13460)]
 
 * Dageförde, J. C., & Teegen, F. (2020). Structured Traversal of Search Trees in Constraint-logic Object-oriented Programming. In Hofstedt, P., Abreu, S., John, U., Kuchen, H., & Seipel, D. (Eds.), Declarative Programming and Knowledge Management (pp. 199–214). Lecture Notes in Artificial Intelligence: Vol. 12057. Springer.   
   \[[doi:10.1007/978-3-030-46714-2_13](https://doi.org/10.1007/978-3-030-46714-2_13)] \[[preprint](https://arxiv.org/abs/1908.10264)]
