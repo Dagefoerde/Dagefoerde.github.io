@@ -18,7 +18,7 @@ In addition, please have a look at my [ResearchGate profile](https://www.researc
 ### 2020
 
 * Dageförde, J. C. (2020). An Integrated Constraint-Logic and Object-Oriented Programming Language. Dissertation at the University of Münster. Münster.  
-  \[[open acess](http://nbn-resolving.de/urn:nbn:de:hbz:6-89089640681)]
+  \[[open access](http://nbn-resolving.de/urn:nbn:de:hbz:6-89089640681)]
 
 * Dageförde, J. C., & Teegen, F. (2020). Structured Traversal of Search Trees in Constraint-logic Object-oriented Programming. In Hofstedt, P., Abreu, S., John, U., Kuchen, H., & Seipel, D. (Eds.), Declarative Programming and Knowledge Management (pp. 199–214). Lecture Notes in Artificial Intelligence: Vol. 12057. Springer.   
   \[[doi:10.1007/978-3-030-46714-2_13](https://doi.org/10.1007/978-3-030-46714-2_13)] \[[preprint](https://arxiv.org/abs/1908.10264)]
